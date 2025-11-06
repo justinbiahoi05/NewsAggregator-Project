@@ -1,0 +1,21 @@
+# Bỏ qua các file cài đặt của Eclipse
+.metadata
+.settings/
+build/
+*.class
+
+# Bỏ qua các file của Tomcat
+/Servers/
+.classpath
+.project
+
+# Bỏ qua file chứa mật khẩu
+src/main/java/model/DAO/DBConnection.java
+
+# Bỏ qua thư mục build
+/target/
+/build/
+
+# Bỏ qua các file rác
+*.log
+*.tmp
