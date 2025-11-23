@@ -61,7 +61,7 @@
                 <h3>Thêm chủ đề mới</h3>
                 <form action="addTopic" method="post">
                     <div class="grid">
-                        <input type="text" name="keyword" placeholder="Ví dụ: Bóng đá" required>
+                        <input type="text" name="keyword" placeholder="Ví dụ: Lũ lụt" required>
                         <button type="submit">Thêm</button>
                     </div>
                 </form>

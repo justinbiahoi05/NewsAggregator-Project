@@ -4,7 +4,7 @@
 
 **NewsAggregator** là một ứng dụng web (xây dựng bằng Java Servlet/JSP) cho phép người dùng đăng ký tài khoản và cá nhân hóa trang tin tức của mình.
 
-Người dùng có thể thêm các "chủ đề" (từ khóa) mà họ quan tâm. Hệ thống sẽ tự động chạy ngầm, quét dữ liệu từ nhiều trang báo (VnExpress, Dân Trí, Tuổi Trẻ) để tìm các bài báo khớp với chủ đề đó và hiển thị trên một trang dashboard duy nhất.
+Người dùng có thể thêm các "chủ đề" (từ khóa) mà họ quan tâm. Hệ thống sẽ tự động chạy ngầm, quét dữ liệu từ nhiều trang báo (VnExpress, Dân Trí, VietnamNet, Thanh Niên, VTC News) để tìm các bài báo khớp với chủ đề đó và hiển thị trên một trang dashboard duy nhất.
 
 ### Các chức năng kỹ thuật nổi bật:
 
@@ -211,8 +211,7 @@ Bạn cần 3 thành phần: **Database**, **Server**, và **Code**.
 ---
 ## 5. 🧑‍💻 Thông tin Tác giả
 
-* **Họ và tên:** `Đặng Hoàng Huy`
-* **Mã số sinh viên:** `102230349`
+* **Họ và tên:** `Đặng Hoàng Huy, Lê Trần Tuấn Hùng, Nguyễn Ngọc Ánh`
 * **Lớp:** `23T_DT4`
 * **Email:** `danghoangdanghoang2018@gmail.com`
 * **GitHub:** `justinbiahoi05`
