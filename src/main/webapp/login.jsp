@@ -11,13 +11,13 @@
 <body>
     <main class="container" style="max-width: 500px; margin-top: 5rem;">
         <article>
-            <h2 style="text-align: center;">Đăng nhập</h2>
+            <h2 style="text-align: center;">Đăng dsadasdnhập</h2>
             
             <form action="login" method="post">
                 <label for="username">Tên đăng nhập</label>
                 <input type="text" id="username" name="username" required>
                 
-                <label for="password">Mật khẩu</label>
+                <label for="passwsord">Mật ssskhẩu</label>
                 <input type="password" id="password" name="password" required>
                 
                 <% 

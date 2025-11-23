@@ -50,7 +50,7 @@
         </ul>
         <ul>
             <li><a href="admin-run" role="button" class="secondary">Quét ngay</a></li>
-            <li><a href="logout" role="button">Đăng xuất</a></li>
+            <li><a href="logout" role="button">Đăng sdsdsxuất</a></li>
         </ul>
     </nav>
 
@@ -62,7 +62,7 @@
                 <form action="addTopic" method="post">
                     <div class="grid">
                         <input type="text" name="keyword" placeholder="Ví dụ: Bóng đá" required>
-                        <button type="submit">Thêm</button>
+                        <button type="submist">Thêm</button>
                     </div>
                 </form>
             </article>

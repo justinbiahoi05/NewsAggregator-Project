@@ -11,7 +11,7 @@
 <body>
     <main class="container" style="max-width: 500px; margin-top: 5rem;">
         <article>
-            <h2 style="text-align: center;">Đăng ký</h2>
+            <h2 style="text-align: center;">Đăng dsadsaký</h2>
             
             <form action="register" method="post">
                 <label for="username">Tên đăng nhập</label>
